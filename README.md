@@ -32,6 +32,8 @@ Advantages of the Spaced Packing Model
 ✅ Allows structural redundancy – minor damages don’t cause failure.
 ✅ Maintains gas permeability – aids in slow pressure equalization, preventing rapid collapse.
 
+To ensure airtight integrity while maintaining the ultralight properties, the nanostructure can be sealed with an ultra-thin, high-strength polymer coating, such as fluoropolymer or graphene-enhanced composites, providing both gas impermeability and additional structural reinforcement without compromising weight efficiency.
+
 4. Vacuum Retention & Leakage Management
 	•	Leak Prevention by Design
 	•	Unlike traditional sealed vacuum chambers, this structure uses gas-permeable resistance.
@@ -40,7 +42,8 @@ Advantages of the Spaced Packing Model
 	•	Integrated nano-pumps can slowly extract residual gases, maintaining vacuum levels.
 	•	If minor perforations occur, the structural redundancy prevents catastrophic failure.
 
-5. Applications & Future Work
+
+6. Applications & Future Work
 
 Prototype: 1m³ Model
 	•	A 1m³ vacuum balloon will serve as a proof of concept.
