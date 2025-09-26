@@ -66,6 +66,8 @@ This is no longer just theory—this is an engineering problem waiting to be sol
 
 Let’s make helium obsolete. 
 
+![Alt text](IMG_6752%20Medium.png)
+
 
                                  Apache License
                            Version 2.0, January 2004
